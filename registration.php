@@ -14,7 +14,7 @@
 
     
  
-    <link rel="stylesheet" href="assets/css/subscribe.css">
+    <link rel="stylesheet" href="style.css">
     
 </head>
 <body>

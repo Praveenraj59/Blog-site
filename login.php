@@ -13,20 +13,14 @@
     <!-- Additional CSS Files -->
 
     
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/subscribe.css">
     
     
 </head>
 <body>
 
     <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-        <div class="jumper">
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-    </div>  
+     
     <!-- ***** Preloader End ***** -->
 
     <!-- Header -->
