@@ -8,12 +8,8 @@
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-
-    <!-- Additional CSS Files -->
-
     
- 
+    <!-- Additional CSS Files -->
     <link rel="stylesheet" href="style.css">
     
 </head>
